@@ -62,3 +62,6 @@ python honifo.py
 
 ! please open hotspot when you are using this tool !
 
+## Login 
+Admin name : FRn13ds
+Password : 014014
