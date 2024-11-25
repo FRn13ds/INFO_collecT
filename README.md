@@ -9,7 +9,7 @@ Tool created to collect all information about devices who are connected with you
 bash
 
 
-git clone https://github.com/FRn13ds/INFO_collect.git
+git clone https://github.com/FRn13ds/INFO_collecT.git
 
 
 cd INFO_collect
