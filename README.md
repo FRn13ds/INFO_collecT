@@ -22,20 +22,43 @@ python honifo.py
 
 ### important !!
 ## Termux 
+   
    bash
+   
+   
    pkg install termux-tools
+   
+   
    pkg install arp-scan
+   
+   
    pkg install network-manager
+
+
 ## Kali linux
+  
+   
    bash
+   
+   
    sudo apt-get update
+   
+   
    sudo apt-get install python3
+   
+   
    sudo apt-get install python3-pip
+   
+   
    pip3 install colorama
 
+  
   sudo apt-get install arp-scan
-   sudo apt-get install network-manager
+  
+  
+  sudo apt-get install network-manager
 
 ## Usage
+
 ! please open hotspot when you are using this tool !
 
